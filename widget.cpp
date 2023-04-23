@@ -5,12 +5,6 @@
 #include <QJsonObject>
 #include <QTimer>
 
-
-
-
-
-
-
 Widget::Widget(QWidget *parent)
     : QWidget(parent)
     , ui(new Ui::Widget)
